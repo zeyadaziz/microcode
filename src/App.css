@@ -1,0 +1,336 @@
+/*.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+/*
+.App {
+  text-align: center;
+}
+body{
+  background-color: chartreuse;
+  
+
+}
+
+#one {
+width: 100px;
+height: 100px;
+border: 10px; solid
+
+}
+*/
+
+/*
+h1{
+  color:white;
+}
+
+body{
+  background-color: rgb(138, 36, 234);
+  text-align: center;
+  
+}
+*/
+/*test aap
+  color:white;
+}
+
+body{
+  background-color: rgb(35, 182, 215);
+}
+
+#one{
+width: 100px;
+height:100px;
+border: 10px solid black;
+}
+
+.two{
+width: 100px;
+height:100px;
+border: 10px solid black;
+}
+
+iframe{
+  height: 700;
+  width: 700;
+}
+*/
+/* we need 
+selector {
+    property : value
+} */
+
+/*
+
+h1{
+  color: blue;
+}
+
+#homeContainer{
+  border: 2px dashed rgb(69, 42, 165);
+  height: 400px;
+  width: 400px;
+  background: rebeccapurple;
+}
+
+.aboutContainer{
+  border: 2px dashed brown;
+  height: 1000px;
+  width: 400px;
+  background: rgb(102, 51, 153);
+  
+}
+
+
+ .var imgVar{
+  height: 1000;
+  width: 900;
+}
+*/
+
+/*
+#appContainer{
+  height: fit-content;
+  width: 50%;
+  margin-left: 25rem;
+}
+
+paper{
+  background: cornflowerblue;
+}
+*/
+
+/*
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  font-family: "Verdana", cursive, sans-serif;
+  color: #ffffff;
+}
+
+body {
+  background-color: #7cc6fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.app {
+  background-color: #252d4a;
+  width: 450px;
+  min-height: 200px;
+  height: min-content;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.score-section {
+  display: flex;
+  font-size: 24px;
+  align-items: center;
+}
+
+/* QUESTION/TIMER/LEFT SECTION */
+/*
+.question-section {
+  width: 100%;
+  position: relative;
+}
+
+.question-count {
+  margin-bottom: 20px;
+}
+
+.question-count span {
+  font-size: 28px;
+}
+
+.question-text {
+  margin-bottom: 12px;
+}
+
+.timer-text {
+  background: rgb(230, 153, 12);
+  padding: 15px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border: 5px solid rgb(255, 189, 67);
+  border-radius: 15px;
+  text-align: center;
+}
+*/
+
+/* ANSWERS/RIGHT SECTION */
+/*
+.answer-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+button {
+  width: 100%;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #252d4a;
+  border-radius: 15px;
+  display: flex;
+  padding: 5px;
+  justify-content: flex-start;
+  align-items: center;
+  border: 5px solid #234668;
+  cursor: pointer;
+}
+
+.correct {
+  background-color: #2f922f;
+}
+
+.incorrect {
+  background-color: #ff3333;
+}
+
+button:hover {
+  background-color: #555e7d;
+}
+
+button:focus {
+  outline: none;
+}
+
+button svg {
+  margin-right: 5px;
+*/
+/*
+#empolyeecontanier{
+  background: rgb(88, 76, 245);
+  column-gap: normal;
+
+  }
+  */
+
+.Home{
+  background:rgb(96, 138, 229);
+  font-weight: 500;
+  font-style:initial
+ 
+
+
+}
+.contact{
+
+background: rgb(96, 138, 229);
+column-gap: normal;
+text-align: center;
+  }
+
+.employee{
+  caret-color: blue;
+
+  }
+
+  .marquee {
+    background:rgb(23, 23, 24);
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 500;
+    padding: 0px;
+    font-size: 30px;
+  }
+  .contact{
+    background: rgb(96, 138, 229);
+    color:black
+   
+
+
+  }
+
+  .iq{
+    font-weight: 500;
+  font-style:initial
+
+
+  }
+
+  h5{
+
+    text-align: left
+  }
+.eemployees{
+  background: blueviolet;
+}
+.marqueeiq {
+  background: rgb(28, 29, 32);
+  color: white;
+  letter-spacing: 2px;
+  font-weight: 500;
+  padding: 0px;
+  font-size: 30px;
+  
+}
+
+.marquee {
+  width: 450px;
+line-height: 50px;
+background-color: red;
+color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.marquee p {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 15s linear infinite;
+}
+@keyframes marquee {
+  0%   { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
+}
